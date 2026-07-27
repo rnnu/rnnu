@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Rafael Nunes 👋
+# Hi, I'm Rafael Nunes 👋
 
 ### Backend Developer | Python & FastAPI
 
@@ -8,16 +8,16 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-Desenvolvedor backend focado em **Python** e **FastAPI**, com interesse em
-arquitetura de software, APIs REST, automação de processos e boas práticas
-de segurança. Gosto de construir sistemas organizados, escaláveis e bem
-documentados.
+Backend developer focused on **Python** and **FastAPI**, interested in
+software architecture, REST APIs, process automation, and security best
+practices. I enjoy building systems that are organized, scalable, and
+well documented.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -32,32 +32,52 @@ documentados.
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
 - 🔄 **[Business Automation Platform](https://github.com/rnnu/business-automation-platform)**
-  API REST em FastAPI para criação e execução de workflows de automação,
-  inspirada em ferramentas como n8n e Zapier.
+  A FastAPI REST API for creating and executing automation workflows,
+  inspired by tools like n8n and Zapier.
 
 - 🏦 **[Nunes Bank Backend](https://github.com/rnnu/Nunes-bank-Backend)**
-  Simulação de sistema bancário via terminal, com persistência em PostgreSQL,
-  cobrindo operações como contas, transações e saldo.
+  A terminal-based banking system simulation with PostgreSQL persistence,
+  covering accounts, transactions, and balances.
 
 - 🤖 **[Vinci AI Assistant](https://github.com/rnnu/Vinci-AI-Assistant)**
-  Assistente pessoal de IA em Python, com reconhecimento de voz (Whisper),
-  respostas via integração com APIs de IA, text-to-speech e automação do
-  computador (PyAutoGUI).
+  A personal AI assistant built in Python, featuring voice recognition
+  (Whisper), AI-powered responses, text-to-speech, and computer
+  automation (PyAutoGUI).
 
 - 🔐 **[Password Strength Checker](https://github.com/rnnu/password-strength-checker)**
-  Ferramenta em Python que avalia a força de senhas com cálculo de entropia
-  e verificação de vazamentos via API do Have I Been Pwned (k-anonimato).
+  A Python tool that evaluates password strength through entropy
+  calculation and breach detection via the Have I Been Pwned API
+  (k-anonymity model).
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nunes-6593a6295/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafac0098@gmail.com)
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rnnu&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rnnu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rnnu&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 </div>

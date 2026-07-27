@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rafael Nunes 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Rafael%20Nunes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%26+FastAPI;Building+REST+APIs;Always+learning+something+new)](https://git.io/typing-svg)
 
@@ -15,20 +15,29 @@ software architecture, REST APIs, process automation, and security best
 practices. I enjoy building systems that are organized, scalable, and
 well documented.
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rnnu/rnnu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </div>
+
+---
+
+### 📖 Currently learning
+
+- 🐧 Linux
+- 🐳 Docker
+- 🤖 AI, with a focus on AI applied to software development
 
 ---
 
@@ -79,5 +88,15 @@ well documented.
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rnnu&theme=tokyonight&no-frame=true&margin-w=10&row=1)
+
+</div>
+
+---
+
+<div align="center">
+
+> "I believe that sometimes it's the people no one imagines anything of
+> who do the things that no one can imagine."
+> — Alan Turing
 
 </div>
